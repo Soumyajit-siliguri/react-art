@@ -22,7 +22,7 @@ body {
 
 button {
   cursor: pointer;
-  background: none;
+  /*background: none;*/
   line-height: inherit;
 }
 
@@ -30,7 +30,7 @@ button:focus {
   outline: none;
 }
 
-
+/*
 #auth-inputs {
   width: 100%;
   max-width: 28rem;
@@ -79,7 +79,8 @@ input.invalid {
   border-color: #f73f3f;
   background-color: #fed2d2;
 }
-
+*/
+/*
 .actions {
   display: flex;
   justify-content: flex-end;
@@ -101,6 +102,7 @@ input.invalid {
   background-color: #f0920e;
 }
 
+
 .text-button {
   color: #f0b322;
   border: none;
@@ -109,3 +111,4 @@ input.invalid {
 .text-button:hover {
   color: #f0920e;
 }
+  */
